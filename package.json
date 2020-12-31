@@ -1,0 +1,26 @@
+{
+  "name": "sandBox",
+  "version": "1.0.0",
+  "description": "___        ______     ____ _                 _  ___  \r         / \\ \\      / / ___|   / ___| | ___  _   _  __| |/ _ \\ \r        / _ \\ \\ /\\ / /\\___ \\  | |   | |/ _ \\| | | |/ _` | (_) |\r       / ___ \\ V  V /  ___) | | |___| | (_) | |_| | (_| |\\__, |\r      /_/   \\_\\_/\\_/  |____/   \\____|_|\\___/ \\__,_|\\__,_|  /_/ \r  -----------------------------------------------------------------",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbsorel619/sandBox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbsorel619/sandBox/issues"
+  },
+  "homepage": "https://github.com/cbsorel619/sandBox#readme",
+  "dependencies": {
+    "ejs-mate": "^3.0.0",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.9"
+  }
+}
